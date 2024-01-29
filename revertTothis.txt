@@ -1,0 +1,5 @@
+Revert to following file structure
+file1
+file2
+file3
+revertToThis
